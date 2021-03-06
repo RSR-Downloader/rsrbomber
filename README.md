@@ -49,7 +49,7 @@ or any version greater than or equal to 3.4, this script has been tested and con
 - Modular codebase and snippets can be easily embedded in other program
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/mizokani)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/rsrbomber)
 
 
 
